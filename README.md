@@ -1,5 +1,10 @@
 # Rocket Stove Plancha
 
+This is a rocket stove plancha that I built for a wood fired bbq.
+![IMG-20220320-WA0012](https://github.com/Dr-schobi/rocket-plancha/assets/78444256/036ecc09-c9be-44de-b004-108153ce4998)
+
+
+
 ## Why and how did this start?
 
 I love to prepare and eat a relaxed BBQ in the summer, and for a while I had a nice propane-fired barbecue.
@@ -93,9 +98,6 @@ Safetey:
 - it burns well even in strong wind, there is no sparks flying and I often leave the fire unattended for a while
 
 ![IMG_20221003_125126172](https://github.com/Dr-schobi/rocket-plancha/assets/78444256/56f624c9-2375-4684-acf2-da257d41ca8c)
-
-![IMG-20220320-WA0012](https://github.com/Dr-schobi/rocket-plancha/assets/78444256/036ecc09-c9be-44de-b004-108153ce4998)
-
 
 
 
