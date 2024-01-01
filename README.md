@@ -76,8 +76,8 @@ Operation:
 ![IMG-20220320-WA0011](https://github.com/Dr-schobi/rocket-plancha/assets/78444256/35047886-8079-48bf-8bce-276dba452296)
 
 Safetey:
-- due to insulation on the bottom inside, the bottom of the barrel barely gets warm. It works well on a wooden terrace without burn marks.
-- the part of the burn chamber/loading port that sticks out can get quite hot. I added a T-piece of pipe so that no burning material can fall out easily.
+- due to insulation on the bottom inside, the bottom of the barrel barely gets warm. It works well on a wooden terrace without burn marks. I still put it on a few bricks to raise the working height a little.
+- the part of the burn chamber/loading port that sticks out can get quite hot. I added a T-piece of pipe so that no burning material can fall out easily. Below this pipe is another brick to pretect the terrace from the heat and that you first bump you foot on the stone instead of the hot pipe.
 - it burns well even in strong wind, there is no sparks flying and I often leave the fire unattended for a while
 
 ![IMG_20221003_125126172](https://github.com/Dr-schobi/rocket-plancha/assets/78444256/56f624c9-2375-4684-acf2-da257d41ca8c)
