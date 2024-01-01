@@ -8,7 +8,7 @@ I became afraid of shortages and dependance on foreign energy imports.
 Some of my energy consumption was already optimized - back then, an electric vehicle had been ordered, I've been heating the house with wood pellets, but I was still buying propane.
 Meanwhile, propane more than doubled in price and this got me thinking.
 
-Idealized thinking: Wouldn't it be nice to prepare food just from locally sourced materials? Like wood?
+Idealized thinking: Wouldn't it be nice to prepare food just from locally sourced wood?
 
 Options I tried and rejected:
 - fire pit / bowl: Sure - you can make a fire in a fire pit or in a fire bowl. This requires a large amount of wood, my cheap fire bowl does not have a permanent place and burns a hole in the lawn.
