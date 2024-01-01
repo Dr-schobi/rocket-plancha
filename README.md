@@ -43,10 +43,11 @@ The long chimney gives a nice draft and pulls away the smoke when the system is 
 
 Materials:
 - a regular "oil" barrel (200l, 88cm high, 55cm diameter) that once contained an industrial lubricant. As the food will not come in contact with the inside, contaminations were not an issue.
-- the cooking surface is a single 5mm round steel plate with 80cm diameter (without a hole in the middle!). It was 109€ from kaufland.de including shipping.
-- all piping for burn chamber and chimney is 150mm chimney pipe (2mm material thickness), about 120€ of material from ofen.de
-- threaded rods and nuts, metal pipe clamps for large diameter
+- the cooking surface is a single 5mm round steel plate with 80cm diameter (without a hole in the middle!). It was 109€ from [kaufland.de](https://www.kaufland.de/product/372854474/) including shipping.
+- all piping for burn chamber and chimney is 150mm chimney pipe (2mm material thickness), about 120€ of material from ofen.de, e.g. this [piece of pipe](https://www.ofen.de/ofenrohr-dn-150-mm-laenge-750-mm-schwarz)
+- threaded rods and nuts, metal pipe clamps for 150mm diameter (with the rubber removed)
 - internal high temperature silica wool insulation and stainless steel zip ties
+- angle brackets and some wood for a small table
 
 Tools:
 - a jigsaw with metal blade
