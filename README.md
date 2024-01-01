@@ -55,9 +55,9 @@ The plancha steel plate (dark blue) simply rests on the upper opening of the bar
 Materials:
 - a regular "oil" barrel (200l, 88cm high, 55cm diameter) that once contained an industrial lubricant. As the food will not come in contact with the inside, contaminations were not an issue.
 - the cooking surface is a single 5mm round steel plate with 80cm diameter (without a hole in the middle!). It was 109€ from [kaufland.de](https://www.kaufland.de/product/372854474/) including shipping.
-- all piping for burn chamber and chimney is 150mm chimney pipe (2mm material thickness), about 120€ of material from ofen.de, e.g. this [piece of pipe](https://www.ofen.de/ofenrohr-dn-150-mm-laenge-750-mm-schwarz), only the heat riser needed to be cut to length.
+- all piping for burn chamber and chimney is 150mm chimney pipe (2mm material thickness), about 210€ of material from ofen.de, e.g. this [piece of pipe](https://www.ofen.de/ofenrohr-dn-150-mm-laenge-750-mm-schwarz), only the heat riser needed to be cut to length. Chimney is 2 pieces 1m, 1x 90° bend, rain cap. Burn chamber is 1 piece 75cm cut, 1x 90° bend, T piece.
 - threaded rods and nuts, metal pipe clamps for 150mm diameter (with the rubber removed)
-- internal insulation with high temperature silica wool and fixed with stainless steel zip ties
+- internal insulation with 13mm high temperature silica wool and fixed with stainless steel zip ties
 - angle brackets and some wood for a small table
 
 
