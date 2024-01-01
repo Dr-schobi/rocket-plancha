@@ -34,24 +34,36 @@ The barrel-part of a rocket mass heater however seems to be a good size.
 ## Construction
 
 Principle:
-The burn chamber and heat riser are a j tube design, located mostly within the barrel. There is fire only within the tube.
-This tube ends 5cm before the plancha cooking plate and hot gas will heat the center of the cooking plate.
+The burn chamber and heat riser are a j tube design, located mostly within the barrel (brown). 2mm steel pipe with 150mm dia (blue) is used throughout the system. 
+Firewood is inserted from the right and there is fire only within the inner burn tube and heat riser.
+The heat riser tube ends 5-10cm before the plancha cooking plate (dark blue) and hot gas will heat the center of the cooking plate.
 The burnt gases then sink along the barrel and exit via the chimney from the bottom.
-The long chimney gives a nice draft and pulls away the smoke when the system is not at operating temperature.
+The long chimney gives a nice draft and pulls away the smoke when the system is not yet at operating temperature.
+The burn chamber and heat riser as well as the bottom of the barrel are insulated (green).
+Pipes are attached to the barrel via threaded rod and metal pipe clamps.
+The plancha steel plate (dark blue) simply rests on the upper opening of the barrel.
 
+![IMG_20240101_212853](https://github.com/Dr-schobi/rocket-plancha/assets/78444256/d91c41fd-ff2f-4b9a-97de-3f89d3d0ddb6)
+![IMG_20240101_213413](https://github.com/Dr-schobi/rocket-plancha/assets/78444256/d5b52d4e-c439-4cc3-9b5b-2348414ae697)
 
 
 Materials:
 - a regular "oil" barrel (200l, 88cm high, 55cm diameter) that once contained an industrial lubricant. As the food will not come in contact with the inside, contaminations were not an issue.
 - the cooking surface is a single 5mm round steel plate with 80cm diameter (without a hole in the middle!). It was 109€ from [kaufland.de](https://www.kaufland.de/product/372854474/) including shipping.
-- all piping for burn chamber and chimney is 150mm chimney pipe (2mm material thickness), about 120€ of material from ofen.de, e.g. this [piece of pipe](https://www.ofen.de/ofenrohr-dn-150-mm-laenge-750-mm-schwarz)
+- all piping for burn chamber and chimney is 150mm chimney pipe (2mm material thickness), about 120€ of material from ofen.de, e.g. this [piece of pipe](https://www.ofen.de/ofenrohr-dn-150-mm-laenge-750-mm-schwarz), only the heat riser needed to be cut to length.
 - threaded rods and nuts, metal pipe clamps for 150mm diameter (with the rubber removed)
-- internal high temperature silica wool insulation and stainless steel zip ties
+- internal insulation with high temperature silica wool and fixed with stainless steel zip ties
 - angle brackets and some wood for a small table
+
 
 Tools:
 - a jigsaw with metal blade
 - a drill
+
+Transportation: the upper chimney and the plancha steel cooking plate can be lifted off. Then there are two handles for carrying the barrel with two persons.
+The T piece for inserting firewood can be removed for cleaning.
+
+
 
 
 ## Results
