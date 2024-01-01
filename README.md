@@ -15,7 +15,7 @@ Options I tried and rejected:
 While uncomfortably cooking on the ground with a long handle, you will be smoked. With stronger winds this is sometimes not possible.
 ![IMG_20210601_211650](https://github.com/Dr-schobi/rocket-plancha/assets/78444256/375d58a9-aecb-4cb9-b046-7f63b6c76bf8)
 
-- luna fire ring: There is a beautiful swiss-made design bowl available, with a wide border for making BBQ on. Those things are massive and you need to design the garden around them. Still, you are cooking on the ground with smoke in your eyes.   https://www.feuerring.ch/mein-feuerring
+- luna fire ring: There is a beautiful swiss-made design fire bowl available, with a wide border for making BBQ on. Those things are massive and you need to design the garden around them. Due to the amount of steel, this requires quite some time before you can start cooking. Still, you are cooking on the ground with smoke in your eyes.   https://www.feuerring.ch/mein-feuerring
 ![IMG_20211002_171732372_HDR](https://github.com/Dr-schobi/rocket-plancha/assets/78444256/a6ec6e6a-e4ac-48c9-83e9-51d91a54bcd1)
 
 - fire barrel: Some neighbours have a fire barrel where they light a fire within. They are used for outside winter parties, have a table on top and provide some heat when standing around. In the center there is a chimney which takes care of the smoke. These barrels can get red-hot, they still burn the grass, still consume a lot of wood. Alghouth they get hot, there is no cooking option. Due to the side radiated heat, you wouldn't want to heat them in summer.
